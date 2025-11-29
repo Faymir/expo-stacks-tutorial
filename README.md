@@ -18,7 +18,7 @@ An interactive, visual playground designed to help developers understand **Expo 
 
 ## 🚀 Live Demo
 
-[Check out the Live Demo here!](https://faymir.github.io/expo-stacks/) _(Replace with your actual URL after deployment)_
+[**Try it live here!**](https://faymir.github.io/expo-stacks-tutorial/)
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +34,8 @@ An interactive, visual playground designed to help developers understand **Expo 
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/expo-stacks.git
-    cd expo-stacks
+    git clone https://github.com/Faymir/expo-stacks-tutorial.git
+    cd expo-stacks-tutorial
     ```
 
 2.  **Install dependencies**
