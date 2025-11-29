@@ -37,7 +37,9 @@ export const Controls: React.FC = () => {
 	const [paramsInput, setParamsInput] = useState("");
 
 	const { isPlaying, progress, playScenario, stop } = useAutoPlayer();
-	const [selectedScenario, setSelectedScenario] = useState("full-flow");
+	const [selectedScenario, setSelectedScenario] = useState(
+		"Full Restaurant Flow",
+	);
 
 	const handleAction = (
 		action: "navigate" | "push" | "replace" | "dismissTo",
